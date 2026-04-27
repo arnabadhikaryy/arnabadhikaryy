@@ -84,10 +84,6 @@
 
 ## 📊 GitHub Stats
 
-```
-Add these in GitHub profile after creating README
-```
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arnabadhikaryy\&show_icons=true\&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabadhikaryy\&layout=compact\&theme=tokyonight)
